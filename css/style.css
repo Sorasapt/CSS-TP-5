@@ -343,6 +343,10 @@ div.listas ul.derecha li article div.listaderecha h6
     font-family: 'Open Sans', sans-serif;
     text-align: left;
 }
+.contenedor2 section.productos ul li article h4 span
+{
+	float: right;
+}
 .contenedor2 section.productos ul li article h4 span.celeste
 
 {
